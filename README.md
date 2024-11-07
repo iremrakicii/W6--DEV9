@@ -1,3 +1,4 @@
+### Veritabanı Sorguları
 Bu README dosyasında SQL veritabanı sorguları yer almakta olup her bir sorgunun işlevi kısaca açıklanmıştır.
 
 ### Sorgu Açıklamaları
